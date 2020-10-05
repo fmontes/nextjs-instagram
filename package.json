@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "instagram-web-api": "^2.2.2",
     "next": "9.5.3",
     "react": "16.13.1",
     "react-dom": "16.13.1"
